@@ -1,1 +1,1 @@
-console.log('change after rebase conflict!')
+console.log('commit from github!')
