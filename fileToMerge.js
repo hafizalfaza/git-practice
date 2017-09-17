@@ -1,1 +1,1 @@
-alert('FILE TO MERGE!')
+console.log('HAHAHAH!')
